@@ -1,14 +1,14 @@
 var NoticiasL = document.getElementById("NoticiasL");
-    document.getElementById("NoticiasL").innerHTML +=  "Sanguinetti: Anhelo una Venezuela que acepte la presencia de un lider democrata"+ "<br>";
-    document.getElementById("NoticiasL").innerHTML +=  "El Sancocho TV: Los venezolanos somos bipolares"+ "<br>";
-    document.getElementById("NoticiasL").innerHTML +=  "Cantv y Movilnet aumentarán sus tarifas en mayo"+ "<br>";
-    document.getElementById("NoticiasL").innerHTML +=  "Muere pasajera que se lanzo de un autobus que era asaltado"+ "<br>";
-    document.getElementById("NoticiasL").innerHTML +=  "Fadess alerta al pais sobre inminente catastrofe laboral"+ "<br>";
-    document.getElementById("NoticiasL").innerHTML +=  "Dolar Simadi vuelve a subir"+ "<br>";
-    document.getElementById("NoticiasL").innerHTML +=  "Llevaran a instancias internacionales abusos contra dirigencia sindical venezolana"+ "<br>";
-    document.getElementById("NoticiasL").innerHTML +=  "Asi se llamara el programa de television de Cilia Flores"+ "<br>";
-    document.getElementById("NoticiasL").innerHTML +=  "Maduro anuncia que los gerentes de Abastos Bicentenarios estan detenidos"+ "<br>";
-    document.getElementById("NoticiasL").innerHTML +=  "Capriles pidio al pueblo rechazar que el Gobierno meta la politica en las escuelas"+ "<br>";
+    document.getElementById("NoticiasL").innerHTML +=  "<p> Sanguinetti: Anhelo una Venezuela que acepte la presencia de un lider democrata<p>";
+    document.getElementById("NoticiasL").innerHTML +=  "<p>El Sancocho TV: Los venezolanos somos bipolares<p>";
+    document.getElementById("NoticiasL").innerHTML +=  "<p>Cantv y Movilnet aumentarán sus tarifas en mayo<p>";
+    document.getElementById("NoticiasL").innerHTML +=  "<p>Muere pasajera que se lanzo de un autobus que era asaltado<p>";
+    document.getElementById("NoticiasL").innerHTML +=  "<p>Fadess alerta al pais sobre inminente catastrofe laboral<p>";
+    document.getElementById("NoticiasL").innerHTML +=  "<p>Dolar Simadi vuelve a subir<p>";
+    document.getElementById("NoticiasL").innerHTML +=  "<p>Llevaran a instancias internacionales abusos contra dirigencia sindical venezolana<p>";
+    document.getElementById("NoticiasL").innerHTML +=  "<p>Asi se llamara el programa de television de Cilia Flores<p>";
+    document.getElementById("NoticiasL").innerHTML +=  "<p>Maduro anuncia que los gerentes de Abastos Bicentenarios estan detenidos<p>";
+    document.getElementById("NoticiasL").innerHTML +=  "<p>Capriles pidio al pueblo rechazar que el Gobierno meta la politica en las escuelas<p>";
 
 document.getElementById("noticiasN").innerHTML = noticiasN
 var i = 0;
